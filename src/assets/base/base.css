@@ -1,0 +1,27 @@
+
+/* BASICS */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: linear-gradient(45deg,lightblue,rgb(99, 169, 255),lightblue);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+}
+
+button {
+    cursor: pointer;
+}
+
+li {
+    padding: 5px;
+}

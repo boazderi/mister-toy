@@ -1,0 +1,61 @@
+/* HELPERS */
+
+.hide {
+    display: none;
+}
+
+/* flex helpers */
+
+.flex {
+    display: flex;
+}
+
+
+
+.flex-column {
+    flex-direction: column;
+}
+
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-end{
+    align-items: flex-end;
+}
+
+/* grid heklers */
+
+.grid {
+    display: grid;
+}
+
+
+/* list helpers */
+
+.clear-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
